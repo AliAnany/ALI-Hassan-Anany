@@ -1,4 +1,6 @@
-# ALI-Hassan-Ananyممتاز جدًا يا د. علي 👨‍🔬
+<p align="center">
+  <img src="assets/ali.jpg" alt="Ali Hassan Anany" width="200" style="border-radius:50%;"/>
+</p> ALI-Hassan-Ananyممتاز جدًا يا د. علي 👨‍🔬
 الآن عندنا كل الروابط الأساسية (GitHub + ResearchGate + Google Scholar).
 سأجهّز لك النسخة النهائية الكاملة لملف README.md لصفحتك على GitHub
 → مخصّصة لتظهر كبروفايل احترافي لباحث Bioinformatician & Plant Geneticist.
